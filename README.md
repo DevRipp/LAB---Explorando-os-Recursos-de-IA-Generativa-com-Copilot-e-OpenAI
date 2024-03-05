@@ -10,7 +10,7 @@
 
 ### Entrada
 
-![]([https://github.com/DevRipp/LAB-Reconhecimento-Facial/blob/main/LAB%20-%20imagem1.png](https://github.com/DevRipp/LAB---Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/imagem1.png)https://github.com/DevRipp/LAB---Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/imagem1.png)
+![](https://github.com/DevRipp/LAB---Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/imagem1.png)
 
 ### Saída
 
